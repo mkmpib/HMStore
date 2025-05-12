@@ -30,7 +30,7 @@ function App() {
   useEffect(() => {
     const time = setTimeout(() => {
       setshow(false)
-    },1000);
+    },10000);
   })
 
 
